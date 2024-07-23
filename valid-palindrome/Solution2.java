@@ -1,3 +1,5 @@
+// 문자열 직접 비교
+
 class Solution {
     public boolean isPalindrome(String s) {
        String s_filtered = s.replaceAll("[^A-Za-z0-9]", "").toLowerCase();
