@@ -1,3 +1,5 @@
+// 문자 단위 비교
+
 class Solution {
     public boolean isPalindrome(String s) {
         int start = 0;
